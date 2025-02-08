@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <h1 className=' text-5xl font-bold text-cyan-50 ' >Vite + React + Tailwind</h1>
+      <h1 className=' text-5xl font-bold text-cyan-200 ' >React + TailwindCSS-v4</h1>
     </>
   )
 }
